@@ -5,6 +5,7 @@ A simple client-server setup for quick and dirty development. Includes storing d
 ### Install and Run
 
 ```
+git clone https://github.com/jkalweit/min-client
 npm install
 nodemon server.js
 ```
